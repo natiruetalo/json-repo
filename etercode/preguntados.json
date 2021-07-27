@@ -1,0 +1,74 @@
+[
+  {
+    "characterId": 1,
+    "name": "Pop",
+    "promo": false,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_12_card_01.png"
+  },
+  {
+    "characterId": 2,
+    "name": "Albert",
+    "promo": false,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_12_card_02.png"
+  },
+  {
+    "characterId": 3,
+    "name": "Hector",
+    "promo": false,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_12_card_03.png"
+  },
+  {
+    "characterId": 4,
+    "name": "Tito",
+    "promo": false,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_12_card_04.png"
+  },
+  {
+    "characterId": 5,
+    "name": "Tina",
+    "promo": true,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_12_card_05.png"
+  },
+  {
+    "characterId": 6,
+    "name": "Bonzo",
+    "promo": false,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_12_card_06.png"
+  },
+  {
+    "characterId": 7,
+    "name": "Pop",
+    "promo": true,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_14_card_01.png"
+  },
+  {
+    "characterId": 8,
+    "name": "Tito",
+    "promo": false,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_14_card_02.png"
+  },
+  {
+    "characterId": 9,
+    "name": "Hector",
+    "promo": true,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_14_card_03.png"
+  },
+  {
+    "characterId": 10,
+    "name": "Tina",
+    "promo": false,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_14_card_04.png"
+  },
+  {
+    "characterId": 11,
+    "name": "Bonzo",
+    "promo": true,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_14_card_05.png"
+  },
+  {
+    "characterId": 12,
+    "name": "Albert",
+    "promo": false,
+    "imageUrl": "https://assets.preguntados.com/png/series/300x300/serie_14_card_06.png"
+  }
+]
